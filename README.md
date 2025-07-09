@@ -28,3 +28,10 @@
 #### 📌 Step 1: Install Required Libraries
 ```python
 !pip install -q opencv-python numpy
+
+####📥 Step 2: Download YOLO Files
+python
+Copy code
+!wget -q https://pjreddie.com/media/files/yolov3.weights
+!wget -q https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
+!wget -q https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
