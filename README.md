@@ -55,3 +55,46 @@ layer_names = net.getLayerNames()
 output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
 print("✅ YOLO Model Loaded Successfully!")
 ```
+
+#### 📸 Step 5: Capture Frame via Webcam
+```python
+output.register_callback('notebook.processFrame', process_frame)
+video_stream()
+```
+
+#### 🖼️ Step 6: Display Results with Detected Objects
+The webcam captures one frame, passes it through YOLO, and displays the result with bounding boxes and class labels.
+
+## 🏆 Achievements
+✅ Completed as a Major & Minor Final Year Project
+
+📝 Published in International Journal For Multidisciplinary Research (IJFMR)
+
+🎓 Demonstrated in academic seminars and reviewed by faculty
+
+## 🧪 Potential Applications
+👷 Tool detection in industrial AR environments
+
+🛠️ Smart manufacturing and maintenance assistance
+
+🧑‍🏫 Real-time educational object tagging
+
+🧏 Assistive tech for visually impaired individuals
+
+## 📂 Project Structure
+```
+ContourVision_AR/
+├── yolov3.weights
+├── yolov3.cfg
+├── coco.names
+└── contourvision_ar.ipynb
+```
+
+## 📣 Citation
+If this project helped you, please cite our published paper:
+
+"ContourVision AR: Real-Time Augmented Tool Recognition System using YOLOv3"
+International Journal For Multidisciplinary Research (IJFMR), 2025
+[[Link to Paper or DOI here](https://www.ijfmr.com/research-paper.php?id=38706)]
+
+
