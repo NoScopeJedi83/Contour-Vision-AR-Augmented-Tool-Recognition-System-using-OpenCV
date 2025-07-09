@@ -100,7 +100,8 @@ International Journal For Multidisciplinary Research (IJFMR), 2025
 #### [[Link to Paper or DOI here](https://www.ijfmr.com/research-paper.php?id=38706)]
 
 🤝 Contributors
-Atharv Grover(https://github.com/NoScopeJedi83)
+
+[Atharv Grover(https://github.com/NoScopeJedi83)]
 
 [Team Member Name(s)]
 
