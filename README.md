@@ -93,7 +93,8 @@ ContourVision_AR/
 ## 📣 Citation
 If this project helped you, please cite our published paper:
 
-"ContourVision AR: Real-Time Augmented Tool Recognition System using YOLOv3"
+"Contour Vision: Tool Detection Using OpenCV"
+
 International Journal For Multidisciplinary Research (IJFMR), 2025
 
 #### [[Link to Paper or DOI here](https://www.ijfmr.com/research-paper.php?id=38706)]
