@@ -99,13 +99,19 @@ International Journal For Multidisciplinary Research (IJFMR), 2025
 
 #### [[Link to Paper or DOI here](https://www.ijfmr.com/research-paper.php?id=38706)]
 
-🤝 Contributors
+## 🤝 Contributors
 
-[Atharv Grover(https://github.com/NoScopeJedi83)]
+- Atharv Grover 
 
-[Team Member Name(s)]
+- Mudit Anand
 
-💡 Future Enhancements
+- Harshit Raj
+
+- Yash
+
+
+## 💡 Future Enhancements
+
 📱 Mobile integration with ARCore or ARKit
 
 🎞️ Continuous video streaming support
@@ -114,12 +120,11 @@ International Journal For Multidisciplinary Research (IJFMR), 2025
 
 🔊 Voice feedback for accessibility
 
-📬 Contact
-📧 your.email@example.com
-🔗 LinkedIn | 🌐 Portfolio
+## 📬 Contact
+📧 atharvgro2003@gmail.com
+🔗 https://www.linkedin.com/in/atharvgrover/ | 🌐 https://atharvgrover.vercel.app/
 
-yaml
-Copy code
+
 
 
 
