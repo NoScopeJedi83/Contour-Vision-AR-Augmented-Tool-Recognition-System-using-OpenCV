@@ -71,7 +71,7 @@ The webcam captures one frame, passes it through YOLO, and displays the result w
 ### 📸 Outputs
 
 <p align="center">
-  <img src="outputs/output1.png" alt="Output 1" width="30%">
+  <img src="ContourVision_AR/outputs/output1.png" alt="Output 1" width="30%">
   <img src="outputs/output2.png" alt="Output 2" width="30%">
   <img src="outputs/output3.png" alt="Output 3" width="30%">
 </p>
