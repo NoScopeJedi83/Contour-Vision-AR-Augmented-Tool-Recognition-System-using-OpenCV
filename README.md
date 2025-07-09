@@ -68,13 +68,17 @@ The webcam captures one frame, passes it through YOLO, and displays the result w
 #### 🖼️ Step 6: Display Results with Detected Objects
 The webcam captures one frame, passes it through YOLO, and displays the result with bounding boxes and class labels.
 
-### 📸 Outputs
+---
+
+## 📸 Outputs
 
 <p align="center">
   <img src="ContourVision_AR/outputs/output1.png" alt="Output 1" width="30%">
-  <img src="outputs/output2.png" alt="Output 2" width="30%">
-  <img src="outputs/output3.png" alt="Output 3" width="30%">
+  <img src="ContourVision_AR/outputs/output2.png" alt="Output 2" width="30%">
+  <img src="ContourVision_AR/outputs/output3.png" alt="Output 3" width="30%">
 </p>
+
+---
 
 ## 🏆 Achievements
 ✅ Completed as a Major & Minor Final Year Project
@@ -82,6 +86,8 @@ The webcam captures one frame, passes it through YOLO, and displays the result w
 📝 Published in International Journal For Multidisciplinary Research (IJFMR)
 
 🎓 Demonstrated in academic seminars and reviewed by faculty
+
+---
 
 ## 🧪 Potential Applications
 👷 Tool detection in industrial AR environments
@@ -91,6 +97,8 @@ The webcam captures one frame, passes it through YOLO, and displays the result w
 🧑‍🏫 Real-time educational object tagging
 
 🧏 Assistive tech for visually impaired individuals
+
+---
 
 ## 📂 Project Structure
 ```
@@ -108,6 +116,8 @@ ContourVision_AR/
     └── ContourVision Published Paper.pdf
 ```
 
+---
+
 ## 📣 Citation
 If this project helped you, please cite our published paper:
 
@@ -116,6 +126,8 @@ If this project helped you, please cite our published paper:
 International Journal For Multidisciplinary Research (IJFMR), 2025
 
 #### [[Link to Paper or DOI here](https://www.ijfmr.com/research-paper.php?id=38706)]
+
+---
 
 ## 🤝 Contributors
 
@@ -127,6 +139,8 @@ International Journal For Multidisciplinary Research (IJFMR), 2025
 
 - Yash
 
+---
+
 
 ## 💡 Future Enhancements
 
@@ -137,6 +151,8 @@ International Journal For Multidisciplinary Research (IJFMR), 2025
 🧭 Object tracking with spatial awareness
 
 🔊 Voice feedback for accessibility
+
+---
 
 ## 📬 Contact
 📧 atharvgro2003@gmail.com
