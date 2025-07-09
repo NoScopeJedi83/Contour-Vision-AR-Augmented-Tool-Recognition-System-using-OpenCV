@@ -65,6 +65,17 @@ video_stream()
 #### 🖼️ Step 6: Display Results with Detected Objects
 The webcam captures one frame, passes it through YOLO, and displays the result with bounding boxes and class labels.
 
+#### 🖼️ Step 6: Display Results with Detected Objects
+The webcam captures one frame, passes it through YOLO, and displays the result with bounding boxes and class labels.
+
+### 📸 Outputs
+
+<p align="center">
+  <img src="outputs/output1.png" alt="Output 1" width="30%">
+  <img src="outputs/output2.png" alt="Output 2" width="30%">
+  <img src="outputs/output3.png" alt="Output 3" width="30%">
+</p>
+
 ## 🏆 Achievements
 ✅ Completed as a Major & Minor Final Year Project
 
@@ -87,7 +98,14 @@ ContourVision_AR/
 ├── yolov3.weights
 ├── yolov3.cfg
 ├── coco.names
-└── contourvision_ar.ipynb
+├── contourvision_ar.ipynb
+├── outputs/
+│   ├── output1.png
+│   ├── output2.png
+│   └── output3.png
+└── resources/
+    ├── ContourVisionAR Report.pdf
+    └── ContourVision Published Paper.pdf
 ```
 
 ## 📣 Citation
