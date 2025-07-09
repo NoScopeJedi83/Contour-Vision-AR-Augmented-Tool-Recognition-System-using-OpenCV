@@ -122,6 +122,7 @@ International Journal For Multidisciplinary Research (IJFMR), 2025
 
 ## 📬 Contact
 📧 atharvgro2003@gmail.com
+
 🔗 https://www.linkedin.com/in/atharvgrover/ | 🌐 https://atharvgrover.vercel.app/
 
 
