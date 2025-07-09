@@ -28,10 +28,30 @@
 #### 📌 Step 1: Install Required Libraries
 ```python
 !pip install -q opencv-python numpy
+```
 
 ####📥 Step 2: Download YOLO Files
-python
-Copy code
+```python
 !wget -q https://pjreddie.com/media/files/yolov3.weights
 !wget -q https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolov3.cfg
 !wget -q https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
+````
+####📂 Step 3: Import Libraries
+```python
+import cv2
+import numpy as np
+from google.colab.patches import cv2_imshow
+from IPython.display import Javascript, display
+import base64
+from google.colab import output
+```
+
+####🧠 Step 4: Load YOLO Model
+```python
+net = cv2.dnn.readNet("yolov3.weights", "yolov3.cfg")
+with open("coco.names", "r") as f:
+    classes = [line.strip() for line in f.readlines()]
+layer_names = net.getLayerNames()
+output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
+print("✅ YOLO Model Loaded Successfully!")
+```
